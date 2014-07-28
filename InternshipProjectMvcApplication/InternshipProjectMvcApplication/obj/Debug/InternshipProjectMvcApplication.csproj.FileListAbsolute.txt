@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2013\Projects\InternshipProjectMvcApplication\InternshipProjectMvcApplication\bin\InternshipProjectMvcApplication.dll.config
+c:\users\1\documents\visual studio 2013\Projects\InternshipProjectMvcApplication\InternshipProjectMvcApplication\bin\InternshipProjectMvcApplication.dll
+c:\users\1\documents\visual studio 2013\Projects\InternshipProjectMvcApplication\InternshipProjectMvcApplication\bin\InternshipProjectMvcApplication.pdb
+c:\users\1\documents\visual studio 2013\Projects\InternshipProjectMvcApplication\InternshipProjectMvcApplication\obj\Debug\InternshipProjectMvcApplication.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2013\Projects\InternshipProjectMvcApplication\InternshipProjectMvcApplication\obj\Debug\InternshipProjectMvcApplication.dll
+c:\users\1\documents\visual studio 2013\Projects\InternshipProjectMvcApplication\InternshipProjectMvcApplication\obj\Debug\InternshipProjectMvcApplication.pdb
